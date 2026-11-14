@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andika_ramdhanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andika_ramdhanu" height="30" width="40" /></a>
-<a href="https://fb.com/danu_ntb_idol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danu_ntb_idol" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andika-ramdhanu-3a66b6412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andika-ramdhanu-3a66b6412" height="30" width="40" /></a>
+<a href="https://fb.com/andika.ramdhanu.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andika.ramdhanu.9" height="30" width="40" /></a>
 <a href="https://instagram.com/dika_dhanu23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dika_dhanu23" height="30" width="40" /></a>
 </p>
 
